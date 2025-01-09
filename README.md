@@ -60,7 +60,3 @@ NODE_ENV=development
 - `npm run lint` - Run ESLint
 - `npm run seed` - Seed database with sample data
 
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
-
