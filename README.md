@@ -1,2 +1,2 @@
 # E-commerce-platform
-I цщклувas Full stack Developer, developed e-commerce platform built with react and node.
+I worked as Full stack Developer and developed e-commerce platform built with react and node.
